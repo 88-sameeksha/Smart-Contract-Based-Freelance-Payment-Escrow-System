@@ -1,10 +1,6 @@
 # Smart Contract-Based Freelance Payment Escrow System
 
-![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)
-![Hardhat](https://img.shields.io/badge/Hardhat-2.x-yellow)
-![React](https://img.shields.io/badge/React-18-blue)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-6-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Overview
 
@@ -524,5 +520,6 @@ B.Tech Computer Science & Engineering Student
 ## License
 
 MIT
-#   S m a r t - C o n t r a c t - B a s e d - F r e e l a n c e - P a y m e n t - E s c r o w - S y s t e m  
+#   S m a r t - C o n t r a c t - B a s e d - F r e e l a n c e - P a y m e n t - E s c r o w - S y s t e m 
+ 
  
