@@ -1,0 +1,17 @@
+{
+  "name": "smart-contract-freelance-escrow",
+  "version": "1.0.0",
+  "description": "Blockchain-based freelance payment escrow system using Solidity, Hardhat, Ethers.js and React.",
+  "main": "scripts/deploy.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "clean": "hardhat clean"
+  },
+ "devDependencies": {
+  "@nomicfoundation/hardhat-toolbox": "5.0.0",
+  "hardhat": "2.28.3"
+}
+}
